@@ -12,7 +12,7 @@ var myObject = parseYayaml(fs.readFileSync("myfile.yay", "utf8"));
 Testing
 npm test
 
-What the hell?
+What is YAYAML language?
 YAYAML is a very light spin on YAML, designed to create a visually unopinionated configuration language. Bonus points: the file extension gets to be ..yay
 
 
